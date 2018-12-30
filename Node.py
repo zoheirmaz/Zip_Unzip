@@ -1,6 +1,6 @@
 class Node:
     index = 0
-    value = ''
+    value = None
     left = None
     right = None
 
